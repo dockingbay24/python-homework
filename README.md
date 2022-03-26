@@ -11,13 +11,14 @@ Python script for analyzing the financial records of your company. You will be p
 * The greatest increase in profits (date and amount) over the entire period.
 * The greatest decrease in losses (date and amount) over the entire period.
 
-Your resulting analysis should look similar to the following:
-Financial Analysis
-----------------------------
-Total Months: 86
-Total: $38382578
-Average  Change: $-2315.12
-Greatest Increase in Profits: Feb-2012 ($1926159)
-Greatest Decrease in Profits: Sep-2013 ($-2196167)
+Your resulting analysis should look similar to the following:<br>
+<br>
+Financial Analysis<br>
+----------------------------<br>
+Total Months: 86<br>
+Total: $38382578<br>
+Average  Change: $-2315.12<br>
+Greatest Increase in Profits: Feb-2012 ($1926159)<br>
+Greatest Decrease in Profits: Sep-2013 ($-2196167)<br>
 
 > Your final script should print the analysis to the terminal and export a text file with the results.
