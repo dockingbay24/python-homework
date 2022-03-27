@@ -18,8 +18,7 @@ import csv
 import pandas as pd
 
 # Set the file path
-csvpath = Path("C:/Users/miscg/zzz/UofM-VIRT-FIN-PT-03-2022-U-LOL/02-Homework/02-Python/Instructions/PyBank/Resources/budget_data.csv")
-
+csvpath = Path("C:/Users/miscg/zzz/python-homework/PyBank/Resources/budget_data.csv")
 #create an analysis dataframe for performing calculations
 analysis_dataframe = pd.read_csv(csvpath)
 
